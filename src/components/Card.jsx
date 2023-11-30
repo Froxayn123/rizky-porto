@@ -1,7 +1,7 @@
 import Dot from "./Dot";
 
 const Card = (props) => {
-  const cardStyle = `m-5 me-10 p-4 ${props.size} rounded-xl shadow-lg transition hover:shadow-2xl flex  justify-center items-center`;
+  const cardStyle = `m-5 me-10 max-md:me-5 p-4 ${props.size} rounded-xl shadow-lg transition hover:shadow-2xl flex  justify-center items-center`;
   const titleStyle = "font-sec font-bold mt-2 text-xl";
   const descStyle = "font-sec text-sm";
 

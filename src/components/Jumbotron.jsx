@@ -43,10 +43,10 @@ const Jumbotron = () => {
   const introTxt1 = "I am Fullstack Web Developer Enthusiast";
   const quoteTxt = ["勇", "気"];
 
-  const dstyle = ["absolute start-24 top-24", "absolute end-96 top-20", "flex absolute end-2 bottom-2"];
+  const dstyle = ["flex  flex-col absolute md:start-24 max-md:justify-center max-md:items-center top-24 max-md:relative ", "absolute end-96 top-20 max-md:hidden", "flex absolute end-2 bottom-2 max-md:relative max-md:justify-center"];
   const qstyle = ["font-japan text-9xl text-center select-none"];
-  const istyle = ["me-2 font-sec text-2xl", "font-sec text-md text-slate-600", "font-sec text-sm capitalize", "font-sec text-2xl text-yellow-300"];
-  const icoStyle = "w-10 m-2";
+  const istyle = ["me-2 font-sec text-2xl ", "font-sec text-md text-slate-600", "font-sec text-sm capitalize", "font-sec text-2xl text-yellow-300"];
+  const icoStyle = "w-10 md:m-2 max-md:ms-4";
 
   useEffect(() => {
     anime({
@@ -159,7 +159,7 @@ const Jumbotron = () => {
         </a>
       </div>
 
-      <div id="grids">
+      <div id="grids" className="max-md:hidden">
         <a href="#home">
           <Dot id="dotGrid1" title="Home" position="absolute" size="p-5" coor="start-32 bottom-48" color=" bg-yellow-300" />
         </a>
