@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rizky-porto/static/css/main.f6db753e.css",
-    "main.js": "/rizky-porto/static/js/main.fa2154af.js",
+    "main.css": "/rizky-porto/static/css/main.5d615fae.css",
+    "main.js": "/rizky-porto/static/js/main.b8a1d50d.js",
     "static/js/787.e9aa8c5c.chunk.js": "/rizky-porto/static/js/787.e9aa8c5c.chunk.js",
     "static/media/project-3.png": "/rizky-porto/static/media/project-3.efc7bfbbc7065db50cc8.png",
     "static/media/gmail.png": "/rizky-porto/static/media/gmail.58e5ec5916805ed5a99e.png",
@@ -18,12 +18,12 @@
     "static/media/ln-logo.png": "/rizky-porto/static/media/ln-logo.bad20a55f409cf9cc948.png",
     "static/media/gh-logo.webp": "/rizky-porto/static/media/gh-logo.62616f63584d7d7a23d3.webp",
     "index.html": "/rizky-porto/index.html",
-    "main.f6db753e.css.map": "/rizky-porto/static/css/main.f6db753e.css.map",
-    "main.fa2154af.js.map": "/rizky-porto/static/js/main.fa2154af.js.map",
+    "main.5d615fae.css.map": "/rizky-porto/static/css/main.5d615fae.css.map",
+    "main.b8a1d50d.js.map": "/rizky-porto/static/js/main.b8a1d50d.js.map",
     "787.e9aa8c5c.chunk.js.map": "/rizky-porto/static/js/787.e9aa8c5c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6db753e.css",
-    "static/js/main.fa2154af.js"
+    "static/css/main.5d615fae.css",
+    "static/js/main.b8a1d50d.js"
   ]
 }
