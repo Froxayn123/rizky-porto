@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/rizky-porto/static/css/main.f6db753e.css",
+    "main.js": "/rizky-porto/static/js/main.fa2154af.js",
+    "static/js/787.e9aa8c5c.chunk.js": "/rizky-porto/static/js/787.e9aa8c5c.chunk.js",
+    "static/media/project-3.png": "/rizky-porto/static/media/project-3.efc7bfbbc7065db50cc8.png",
+    "static/media/gmail.png": "/rizky-porto/static/media/gmail.58e5ec5916805ed5a99e.png",
+    "static/media/ig-logo.png": "/rizky-porto/static/media/ig-logo.237d2f3389d7559d93fd.png",
+    "static/media/telegram.png": "/rizky-porto/static/media/telegram.3c0a736b8d3e645d7076.png",
+    "static/media/discord.png": "/rizky-porto/static/media/discord.157d5c7a42135d7a01a8.png",
+    "static/media/fb-logo.png": "/rizky-porto/static/media/fb-logo.27e15bab1389dd245011.png",
+    "static/media/bg-landpage.png": "/rizky-porto/static/media/bg-landpage.d1a4702499ecc9e8c806.png",
+    "static/media/project-4.jpeg": "/rizky-porto/static/media/project-4.6f6f457034e2f49e23d8.jpeg",
+    "static/media/project-2.png": "/rizky-porto/static/media/project-2.53fc6280108fb1056577.png",
+    "static/media/project-1.png": "/rizky-porto/static/media/project-1.ede67b269a680bd42f76.png",
+    "static/media/wabusiness.png": "/rizky-porto/static/media/wabusiness.606dbf24d7ff37353b5f.png",
+    "static/media/coming-soon.jpeg": "/rizky-porto/static/media/coming-soon.8ab215a1ea92ed6bccaa.jpeg",
+    "static/media/ln-logo.png": "/rizky-porto/static/media/ln-logo.bad20a55f409cf9cc948.png",
+    "static/media/gh-logo.webp": "/rizky-porto/static/media/gh-logo.62616f63584d7d7a23d3.webp",
+    "index.html": "/rizky-porto/index.html",
+    "main.f6db753e.css.map": "/rizky-porto/static/css/main.f6db753e.css.map",
+    "main.fa2154af.js.map": "/rizky-porto/static/js/main.fa2154af.js.map",
+    "787.e9aa8c5c.chunk.js.map": "/rizky-porto/static/js/787.e9aa8c5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6db753e.css",
+    "static/js/main.fa2154af.js"
+  ]
+}
