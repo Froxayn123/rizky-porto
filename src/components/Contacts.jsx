@@ -17,22 +17,22 @@ const Contacts = () => {
         <div className="text-center md:mt-28 max-md:mt-12">
           <div className="flex max-md:flex-col">
             <div className="flex">
-              <Card link="https://www.facebook.com/708iki" img={Facebook} title="Facebook" size="w-36" sizeImg="w-10" />
-              <Card link="https://www.instagram.com/708iki_" img={Instagram} title="Instagram" size="w-36" sizeImg="w-10" />
+              <Card link="https://www.facebook.com/708iki" alt="" img={Facebook} title="Facebook" size="w-36" sizeImg="w-10" />
+              <Card link="https://www.instagram.com/708iki_" alt="" img={Instagram} title="Instagram" size="w-36" sizeImg="w-10" />
             </div>
             <div className="flex">
-              <Card link="https://www.linkedin.com/in/rizky-muhammad-yusuf-436b591b2" img={Linkedin} title="LinkedIn" size="w-36" sizeImg="w-10" />
-              <Card link="https://wa.me/message/CQEIZP26QLDVM1" img={WaBusiness} title="WhatsApp" size="w-36" sizeImg="w-10" />
+              <Card link="https://www.linkedin.com/in/rizky-muhammad-yusuf-436b591b2" alt="" img={Linkedin} title="LinkedIn" size="w-36" sizeImg="w-10" />
+              <Card link="https://wa.me/message/CQEIZP26QLDVM1" img={WaBusiness} alt="" title="WhatsApp" size="w-36" sizeImg="w-10" />
             </div>
           </div>
           <div className="flex max-md:flex-col">
             <div className="flex">
-              <Card link="https://github.com/Froxayn123" img={GitHub} title="GitHub" size="w-36" sizeImg="w-10" />
-              <Card link="https://t.me/rizkymyusuf" img={Telegram} title="Telegram" size="w-36" sizeImg="w-10" />
+              <Card link="https://github.com/Froxayn123" img={GitHub} alt="" title="GitHub" size="w-36" sizeImg="w-10" />
+              <Card link="https://t.me/rizkymyusuf" img={Telegram} alt="" title="Telegram" size="w-36" sizeImg="w-10" />
             </div>
             <div className="flex">
-              <Card link="https://discord.com/users/froxayn" size="w-36" img={Discord} title="Discord" sizeImg="w-10" />
-              <Card link="mailto:rizkymyusuf123@gmail.com" size="w-36" img={Gmail} title="Gmail" sizeImg="w-10" />
+              <Card link="https://discord.com/users/froxayn" size="w-36" alt="" img={Discord} title="Discord" sizeImg="w-10" />
+              <Card link="mailto:rizkymyusuf123@gmail.com" size="w-36" alt="" img={Gmail} title="Gmail" sizeImg="w-10" />
             </div>
           </div>
         </div>

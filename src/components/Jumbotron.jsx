@@ -145,16 +145,16 @@ const Jumbotron = () => {
         <h1 className={qstyle}>{quoteTxt[1]}</h1>
       </div>
       <div className={dstyle[2]}>
-        <a href="https://www.facebook.com/708iki">
+        <a href="https://www.facebook.com/708iki" aria-label="Facebook">
           <img src={Facebook} alt="" className={icoStyle} />
         </a>
-        <a href="https://www.instagram.com/708iki_">
+        <a href="https://www.instagram.com/708iki_" aria-label="Instagram">
           <img src={Instagram} alt="" className={icoStyle} />
         </a>
-        <a href="https://www.linkedin.com/in/rizky-muhammad-yusuf-436b591b2">
+        <a href="https://www.linkedin.com/in/rizky-muhammad-yusuf-436b591b2" aria-label="LinkedIn">
           <img src={Linkedin} alt="" className={icoStyle} />
         </a>
-        <a href="https://github.com/Froxayn123">
+        <a href="https://github.com/Froxayn123" aria-label="GitHub">
           <img src={GitHub} alt="" className={icoStyle} />
         </a>
       </div>
